@@ -3,10 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-# Ignore .idea directory if using jetbrains IDE
 .idea
-
-#Ignore sqlite files
+API/appsettings.json
 
 
 # User-specific files
